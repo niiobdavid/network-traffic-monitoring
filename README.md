@@ -365,6 +365,8 @@ Verify Resource Group Deletion
 </p>
 
 <p>
+  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/3TBwxKy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/fnuocR9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/6IN1uqW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
